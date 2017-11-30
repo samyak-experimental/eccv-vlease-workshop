@@ -1,0 +1,6 @@
+@article{embodiedqa,
+  title={{E}mbodied {Q}uestion {A}nswering},
+  author={Abhishek Das and Samyak Datta and Georgia Gkioxari and Stefan Lee and Devi Parikh and Dhruv Batra},
+  journal={arXiv preprint arXiv:1711.xxxxx},
+  year={2017}
+}
