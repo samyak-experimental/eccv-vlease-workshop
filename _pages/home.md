@@ -39,7 +39,9 @@ or implied, of the U.S. Government, or any sponsor."
 
 <div class="row">
   <div class="col-xs-12">
-    <iframe width="980" height="550" src="https://www.youtube.com/embed/gVj-TeIJfrk" frameborder="0" allowfullscreen></iframe>      
+    <div class="vid-container">
+      <iframe src="https://www.youtube.com/embed/gVj-TeIJfrk" allowfullscreen></iframe>
+    </div>
   </div>
 </div>
 
