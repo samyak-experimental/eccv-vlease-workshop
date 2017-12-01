@@ -43,6 +43,13 @@ or implied, of the U.S. Government, or any sponsor."
   </div>
 </div>
 
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <img src="/static/img/embodiedqa/model.jpg">
+  </div>
+</div>
+
 <!-- <div class="row" style="margin-top:30px;">
   <div class="col-xs-12 col-sm-7">
     <h3>What is Visual Dialog?</h3>
