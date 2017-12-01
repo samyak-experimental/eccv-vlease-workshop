@@ -108,12 +108,12 @@ or implied, of the U.S. Government, or any sponsor."
         Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra<br>
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-      [<a href="bib/embodiedqa.bib.txt">Bibtex</a>] [<a href="/paper.pdf">PDF</a>]
+      [<a href="bib/embodiedqa.bib.txt">Bibtex</a>] [<a href="/static/paper.pdf">PDF</a>]
     </div>
 </div>
 <div class="row">
     <div class="col-xs-12">
-        <a href="/paper.pdf">
+        <a href="/static/paper.pdf">
           <img class="thumb" src="/static/img/embodiedqa/thumb.jpg">
         </a>
     </div>
