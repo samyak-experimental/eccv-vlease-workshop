@@ -39,9 +39,7 @@ or implied, of the U.S. Government, or any sponsor."
 
 <div class="row">
   <div class="col-xs-12">
-    <div class="vid-container">
-      <iframe src="https://www.youtube.com/embed/gVj-TeIJfrk" allowfullscreen></iframe>
-    </div>
+    <img src="/static/img/embodiedqa/teaser.png">
   </div>
 </div>
 
@@ -112,6 +110,15 @@ or implied, of the U.S. Government, or any sponsor."
           <img class="thumb" src="/static/img/embodiedqa/thumb.jpg">
         </a>
     </div>
+</div>
+<hr>
+
+<div class="row">
+  <div class="col-xs-12">
+    <div class="vid-container">
+      <iframe src="https://www.youtube.com/embed/gVj-TeIJfrk" allowfullscreen></iframe>
+    </div>
+  </div>
 </div>
 <hr>
 
