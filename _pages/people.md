@@ -40,29 +40,29 @@ permalink: /people
     </div>
   </div>
   <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://computing.ece.vt.edu/~steflee/" style="border:0;">
+    <a href="https://www.cc.gatech.edu/~slee3191/" style="border:0;">
       <img class="people-pic" src="/static/img/people/stefan.jpg">
     </a>
     <div class="people-name">
-      <a href="https://computing.ece.vt.edu/~steflee/">Stefan Lee</a>
+      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
       <h6>Georgia Tech</h6>
     </div>
   </div>
   <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://computing.ece.vt.edu/~parikh/">
+    <a href="https://www.cc.gatech.edu/~parikh/">
       <img class="people-pic" src="/static/img/people/devi.jpg">
     </a>
     <div class="people-name">
-      <a href="https://computing.ece.vt.edu/~parikh/">Devi Parikh</a>
+      <a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a>
       <h6>Facebook AI Research &amp; Georgia Tech</h6>
     </div>
   </div>
   <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://computing.ece.vt.edu/~dbatra/">
+    <a href="https://www.cc.gatech.edu/~dbatra/">
       <img class="people-pic" src="/static/img/people/dhruv.jpg">
     </a>
     <div class="people-name">
-      <a href="https://computing.ece.vt.edu/~dbatra/">Dhruv Batra</a>
+      <a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a>
       <h6>Facebook AI Research &amp; Georgia Tech</h6>
     </div>
   </div>
