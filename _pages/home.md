@@ -103,12 +103,12 @@ or implied, of the U.S. Government, or any sponsor."
         Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra<br>
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-      ArXiv [<a href="bib/embodiedqa.bib.txt">Bibtex</a>] [<a nohref>PDF</a>]
+      ArXiv [<a href="bib/embodiedqa.bib.txt">Bibtex</a>] [<a href="https://arxiv.org/abs/1711.11543">PDF</a>]
     </div>
 </div>
 <div class="row">
     <div class="col-xs-12">
-        <a nohref>
+        <a href="https://arxiv.org/abs/1711.11543">
           <img class="thumb" src="/static/img/embodiedqa/thumb.jpg">
         </a>
     </div>
