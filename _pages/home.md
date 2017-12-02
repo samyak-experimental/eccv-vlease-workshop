@@ -35,7 +35,11 @@ or implied, of the U.S. Government, or any sponsor."
       gather information through first-person (egocentric) vision, and then answer the question ("orange").
     </p>
   </div>
+  <div class="col-xs-12">
+    <span style="color:#e74c3c;font-weight:400;">Dec 2017</span> — Code for 3D environments coming soon!
+  </div>
 </div>
+<hr>
 
 <div class="row">
   <div class="col-xs-12">
