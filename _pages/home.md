@@ -36,7 +36,7 @@ or implied, of the U.S. Government, or any sponsor."
     </p>
   </div>
   <div class="col-xs-12">
-    <span style="color:#e74c3c;font-weight:400;">Dec 2017</span> — Code for 3D environments coming soon!
+    <span style="color:#e74c3c;font-weight:400;">Dec 2017</span> — <a target="_blank" href="https://github.com/facebookresearch/house3d">Code for 3D environments</a> is now available!
   </div>
 </div>
 <hr>
