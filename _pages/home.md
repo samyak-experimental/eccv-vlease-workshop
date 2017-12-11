@@ -29,7 +29,7 @@ or implied, of the U.S. Government, or any sponsor."
   <div class="col-xs-12">
     <p>
       Embodied Question Answering is a new AI task where an agent is spawned at a random location in a 3D environment and
-      asked a natural language question ("What color is the car?").
+      asked a question ("What color is the car?").
       In order to answer, the agent
       must first intelligently navigate to explore the environment,
       gather information through first-person (egocentric) vision, and then answer the question ("orange").
