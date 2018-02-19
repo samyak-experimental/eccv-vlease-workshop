@@ -1,6 +1,6 @@
-@article{embodiedqa,
+@inproceedings{embodiedqa,
   title={{E}mbodied {Q}uestion {A}nswering},
   author={Abhishek Das and Samyak Datta and Georgia Gkioxari and Stefan Lee and Devi Parikh and Dhruv Batra},
-  journal={arXiv preprint arXiv:1711.11543},
-  year={2017}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2018}
 }
