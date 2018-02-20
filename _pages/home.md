@@ -43,7 +43,7 @@ or implied, of the U.S. Government, or any sponsor."
 
 <div class="row">
   <div class="col-xs-12">
-    <img src="/static/img/embodiedqa/teaser.png">
+    <img src="/static/img/embodiedqa/teaser.jpg">
   </div>
 </div>
 
