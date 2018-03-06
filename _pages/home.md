@@ -112,7 +112,7 @@ or implied, of the U.S. Government, or any sponsor."
         Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra<br>
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-      CVPR 2018 [<a href="bib/embodiedqa.bib.txt">Bibtex</a>] [<a href="http://embodiedqa.org/paper.pdf">PDF</a>]
+      CVPR 2018 (Oral) [<a href="bib/embodiedqa.bib.txt">Bibtex</a>] [<a href="http://embodiedqa.org/paper.pdf">PDF</a>]
     </div>
 </div>
 <div class="row">
