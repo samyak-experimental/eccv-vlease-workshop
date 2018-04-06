@@ -126,8 +126,22 @@ or implied, of the U.S. Government, or any sponsor."
 
 <div class="row">
   <div class="col-xs-12">
+      <h3>Qualitative Examples</h3><br>
+  </div>
+  <div class="col-xs-12">
     <div class="vid-container">
       <iframe src="https://www.youtube.com/embed/gVj-TeIJfrk" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-xs-12">
+      <h3>Failure Cases</h3><br>
+  </div>
+  <div class="col-xs-12">
+    <div class="vid-container">
+      <iframe src="https://www.youtube.com/embed/4zH8cz2VlEg" allowfullscreen></iframe>
     </div>
   </div>
 </div>
