@@ -163,7 +163,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -174,7 +174,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -185,7 +185,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -196,7 +196,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -207,7 +207,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -218,7 +218,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -229,7 +229,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -240,7 +240,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -251,7 +251,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -262,7 +262,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" style="float:left;margin-right:50px;height:80px;width:80px;" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
@@ -298,7 +298,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -306,7 +306,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
 
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -314,7 +314,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
   
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -322,7 +322,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
   
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -330,7 +330,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
 
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -338,7 +338,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
 
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -347,7 +347,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
   <div class="row">
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -355,7 +355,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
 
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -363,7 +363,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
   
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -371,7 +371,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
   
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
@@ -379,7 +379,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   </div>
 
   <div class="col-xs-2">
-    <img class="people-pic" src="/static/img/people/abhishek.jpg">
+    <img class="people-pic" src="{{ "/static/img/people/abhishek.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
       <a href="//abhishekdas.com">Abhishek Das</a>
       <h6>Georgia Tech</h6>
