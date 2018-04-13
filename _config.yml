@@ -2,7 +2,7 @@ title: Visual Learning and Embodied Agents in Simulation Environments
 email: samyak@gatech.edu
 description: ECCV 2018 (Munich, Germany)
   ---
-baseurl: "/eccv-vlease-workshop" # the subpath of your site, e.g. /blog
+baseurl: "/eccv18-vlease-workshop" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
