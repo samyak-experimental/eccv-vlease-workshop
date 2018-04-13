@@ -1,9 +1,8 @@
-title: Embodied Question Answering
-email: abhshkdz@gatech.edu
-description: Moving towards AI agents that can navigate in virtual environments and answer natural language questions
+title: Visual Learning and Embodied Agents in Simulation Environments
+email: samyak@gatech.edu
+description: ECCV 2018 (Munich, Germany)
   ---
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://embodiedqa.org" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
