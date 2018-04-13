@@ -1,1 +1,1 @@
-Jekyll source for [embodiedqa.org](http://embodiedqa.org)
+Jekyll source for ECCV 2018 Visual Learning and Embodied Agents in Simulation Environments workshop website
